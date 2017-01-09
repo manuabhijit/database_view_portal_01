@@ -9,7 +9,7 @@
 	
 	<body>
 		<div class="testbox">
-			<form method="POST" action="display_f.php">
+			<form method="POST" action="display.php">
 				<h2> Extra Data </h2>
 				<center> 
 					blood_group<input type="checkbox" name="blood_group" value="Yes" />
