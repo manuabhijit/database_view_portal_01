@@ -1,4 +1,4 @@
-# Sinple Database Viewing Portal
+# Simple Database Viewing Portal
 PHP MySQL Sample Project: Displays entire database as be need of the viewer based on password.
 
 #Languages and Frameworks
@@ -26,7 +26,7 @@ PHP MySQL Sample Project: Displays entire database as be need of the viewer base
 
 #PHP Backend File Description 
 
-    The file is the backend script for Online Bus Registration System to be called by AJAX call.
+    The file is the backend script for checking the password and showing the data as per requirment.
 		
 		File Properties:
 		1. Procedural Programming Approach
